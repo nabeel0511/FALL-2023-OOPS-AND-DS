@@ -38,4 +38,4 @@ A collection of sample problems and solutions to help you ace your exams.
 
 1️⃣ **Clone the repository**  
    ```bash
-   git clone https://github.com/nabeel0511/FALL-2023-OOPS-AND-DS
+   ghttps://github.com/nabeel0511/FALL-2023-OOPS-AND-DS
