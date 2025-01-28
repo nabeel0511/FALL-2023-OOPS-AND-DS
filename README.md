@@ -33,9 +33,3 @@ A collection of sample problems and solutions to help you ace your exams.
 - **Graphs** (DFS, BFS, etc.)  
 - **Sorting & Searching Algorithms**  
 - **Hashing Techniques**
-
-## 💻 Getting Started  
-
-1️⃣ **Clone the repository**  
-   ```bash
-   ghttps://github.com/nabeel0511/FALL-2023-OOPS-AND-DS
